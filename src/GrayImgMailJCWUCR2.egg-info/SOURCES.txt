@@ -1,0 +1,12 @@
+LICENSE
+Readme.md
+pyproject.toml
+readme.md
+src/GrayImgMailJCWUCR/__init__.py
+src/GrayImgMailJCWUCR/imagenes.py
+src/GrayImgMailJCWUCR/mymail.py
+src/GrayImgMailJCWUCR.egg-info/PKG-INFO
+src/GrayImgMailJCWUCR.egg-info/SOURCES.txt
+src/GrayImgMailJCWUCR.egg-info/dependency_links.txt
+src/GrayImgMailJCWUCR.egg-info/top_level.txt
+test/test.py

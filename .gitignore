@@ -1,0 +1,8 @@
+env/
+*/__pycache__/
+docs/build/*
+dist/
+src/GrayImgMailJCWUCR.egg-info
+src/GrayImgMailJCWUCR/__pycache__/
+.pypirc
+imagen_a.jpg

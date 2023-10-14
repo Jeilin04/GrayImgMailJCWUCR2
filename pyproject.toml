@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools", "Pillow", "requests"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "GrayImgMailJCWUCR"
+version = "0.0.1"
+description = "La biblioteca permite descargar una imagen, hacerla gris y enviarla a un correo"
+authors = [
+    {name="Jeilin Crawford", email="jeilinj@gmail.com"},
+]
+readme = "Readme.md"
+requires-python = ">=3.10"
+[project.urls]
+"Homepage" = "https://github.com/Jeilin04/GrayImgMailJCWUCR.git" 
