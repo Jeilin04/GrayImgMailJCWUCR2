@@ -1,11 +1,11 @@
 GrayImgMailJCWUCR2 package
-=========================
+===========================
 
 Submodules
 ----------
 
 GrayImgMailJCWUCR2.imagenes module
----------------------------------
+-----------------------------------
 
 .. automodule:: GrayImgMailJCWUCR2.imagenes
    :members:
@@ -13,7 +13,7 @@ GrayImgMailJCWUCR2.imagenes module
    :show-inheritance:
 
 GrayImgMailJCWUCR2.mymail module
--------------------------------
+---------------------------------
 
 .. automodule:: GrayImgMailJCWUCR2.mymail
    :members:

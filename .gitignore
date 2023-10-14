@@ -2,7 +2,11 @@ env/
 */__pycache__/
 docs/build/*
 dist/
-src/GrayImgMailJCWUCR.egg-info
-src/GrayImgMailJCWUCR/__pycache__/
+src/GrayImgMailJCWUCR2.egg-info
+src/__pycache__/
 .pypirc
 imagen_a.jpg
+src/GrayImgMailJCWUCR2.egg-info/PKG-INFO
+src/GrayImgMailJCWUCR2.egg-info/SOURCES.txt
+src/GrayImgMailJCWUCR2.egg-info/top_level.txt
+src/GrayImgMailJCWUCR2/__pycache__/mymail.cpython-311.pyc

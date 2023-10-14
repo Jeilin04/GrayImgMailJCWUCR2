@@ -3,7 +3,7 @@ requires = ["setuptools", "Pillow", "requests"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "GrayImgMailJCWUCR"
+name = "GrayImgMailJCWUCR2"
 version = "0.0.1"
 description = "La biblioteca permite descargar una imagen, hacerla gris y enviarla a un correo"
 authors = [
@@ -12,4 +12,4 @@ authors = [
 readme = "Readme.md"
 requires-python = ">=3.10"
 [project.urls]
-"Homepage" = "https://github.com/Jeilin04/GrayImgMailJCWUCR.git" 
+"Homepage" = "https://github.com/Jeilin04/GrayImgMailJCWUCR2.git" 
